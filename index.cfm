@@ -4,7 +4,7 @@ showQuery = queryComp.getQuery();
  
 for (row in showQuery) {
 	
-	writeOutput(row.firstname);
+	writeOutput(row.firstname & " " & row.lastname) ;
 }
 </cfscript>
 
