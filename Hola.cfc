@@ -1,7 +1,7 @@
 component {
    
    remote string function holaWorld() {
-      return "Hola Pinche World!";
+      return "Hola Pinche Juevon!";
       }
       
    remote query function getQuery() {
